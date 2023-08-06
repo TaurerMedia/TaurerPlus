@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Go Group Media" tvg-logo="http://ott.gowatch.sbs/bin1/picons/go_static/GO_WATCHPICON.png", Go Group Media
+http://ott.gowatch.sbs/bin1/picons/go_static/video/video_1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="TV1 - Техническое 1" tvg-logo="http://ott.gowatch.sbs/bin1/picons/tv1/GO_TV1PICON.png" group-title="TeleVision - Go Group",TV1 - Техническое 1
+http://stream-stl-01.ott.gowatch.sbs:8080/memfs/a27482b8-68ab-4a4f-a265-70d92bfde354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1 - Техническое 2" tvg-logo="http://ott.gowatch.sbs/bin1/picons/tv1/GO_TV1ESTPICON.png" group-title="TeleVision - Go Group",TV1 - Техническое 2
+http://stream-stl-01.ott.gowatch.sbs:8080/memfs/97f9f6b6-2316-40dc-ab63-1476f08aeaaa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1 EST - Техническое 1" tvg-logo="http://ott.gowatch.sbs/bin1/picons/tv1/GO_TV1ESTPICON.png" group-title="TeleVision - Go Group",TV1 EST - Техническое 1
+http://stream-stl-01.ott.gowatch.sbs:8080/memfs/e9983f4f-1ab7-4bbf-b18e-b4157231a4f6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio (NON SSL)
+http://stream-02.goradio.sbs:8000/TikTok_World
+#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna (NON SSL)
+http://stream-02.goradio.sbs:8020/RadioVolna_Europe
+
+#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio (SSL)
+https://stream-01.goradio.sbs:8000/TikTok_World
+#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna (SSL)
+https://stream-01.goradio.sbs:8020/RadioVolna_Europe
+
+#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio - Россия (NON SSL)
+http://stream-02.goradio.sbs:8010/TikTok_Russia
+#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna - Россия (NON SSL)
+http://stream-02.goradio.sbs:8030/RadioVolna_Russia
+
+#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio - Россия (SSL)
+https://stream-01.goradio.sbs:8010/TikTok_Russia
+#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna - Россия (SSL)
+https://stream-01.goradio.sbs:8030/RadioVolna_Russia
