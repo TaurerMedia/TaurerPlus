@@ -13,18 +13,26 @@ http://stream-stl-01.ott.gowatch.sbs:8080/memfs/e9983f4f-1ab7-4bbf-b18e-b4157231
 http://stream-02.goradio.sbs:8000/TikTok_World
 #EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna (NON SSL)
 http://stream-02.goradio.sbs:8020/RadioVolna_Europe
+#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit (SSL)
+http://stream-02.goradio.sbs:8040/RockHit_World
 
 #EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio (SSL)
 https://stream-01.goradio.sbs:8000/TikTok_World
 #EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna (SSL)
 https://stream-01.goradio.sbs:8020/RadioVolna_Europe
+#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit (SSL)
+https://stream-01.goradio.sbs:8040/RockHit_World
 
 #EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio - Россия (NON SSL)
 http://stream-02.goradio.sbs:8010/TikTok_Russia
 #EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna - Россия (NON SSL)
 http://stream-02.goradio.sbs:8030/RadioVolna_Russia
+#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit - Россия (NON SSL)
+http://stream-02.goradio.sbs:8050/RockHit_Russia
 
 #EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio - Россия (SSL)
 https://stream-01.goradio.sbs:8010/TikTok_Russia
 #EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna - Россия (SSL)
 https://stream-01.goradio.sbs:8030/RadioVolna_Russia
+#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit - Россия (SSL)
+https://stream-01.goradio.sbs:8050/RockHit_Russia
