@@ -1,38 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Go Group Media" tvg-logo="http://ott.gowatch.sbs/bin1/picons/go_static/GO_WATCHPICON.png", Go Group Media
-http://ott.gowatch.sbs/bin1/picons/go_static/video/video_1.mp4
+#EXT-X-SESSION-DATA:DATA-ID="com.streambox_mozillahttp_1_2"
+#PLAYLIST-VERSION:1.30.1, support@gomedia.sbs
 
-#EXTINF:-1 tvg-id="" tvg-name="TV1 - Техническое 1" tvg-logo="http://ott.gowatch.sbs/bin1/picons/tv1/GO_TV1PICON.png" group-title="TeleVision - Go Group",TV1 - Техническое 1
-http://stream-stl-01.ott.gowatch.sbs:8080/memfs/a27482b8-68ab-4a4f-a265-70d92bfde354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV1 - Техническое 2" tvg-logo="http://ott.gowatch.sbs/bin1/picons/tv1/GO_TV1ESTPICON.png" group-title="TeleVision - Go Group",TV1 - Техническое 2
-http://stream-stl-01.ott.gowatch.sbs:8080/memfs/97f9f6b6-2316-40dc-ab63-1476f08aeaaa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV1 EST - Техническое 1" tvg-logo="http://ott.gowatch.sbs/bin1/picons/tv1/GO_TV1ESTPICON.png" group-title="TeleVision - Go Group",TV1 EST - Техническое 1
-http://stream-stl-01.ott.gowatch.sbs:8080/memfs/e9983f4f-1ab7-4bbf-b18e-b4157231a4f6.m3u8
+#EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV1_TEMP.png" group-title="Go Group Media (SSL)",TV1
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHtlc4NE/m3u8
+#EXTINF:-1 gogroup-id="3723" tvg-id="" tvg-name="TV2" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV2_TEMP.png" group-title="Go Group Media (SSL)",TV2
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHtlc43NE/m3u8
+#EXTINF:-1 gogroup-id="3711" tvg-id="" tvg-name="TV3" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV3_TEMP.png" group-title="Go Group Media (SSL)",TV3 Retro
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRPDj0cF1T1Q5CzWV7c7Q464/m3u8
+#EXTINF:-1 gogroup-id="3715" tvg-id="" tvg-name="SbMovie" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/SB_MOVIE_TEMP.png" group-title="Go Group Media (SSL)",SB Movie
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRMim4bEkX7vgEDaFAleKJ8Q/m3u8
+#EXTINF:-1 gogroup-id="3716" tvg-id="" tvg-name="Two" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TWO_TEMP.png" group-title="Go Group Media (SSL)",Two
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRH7i60gcR-SAaJypBRL7PAc/m3u8
+#EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/12_TEMP.png" group-title="Go Group Media (SSL)",12 канал
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikROMJd4rmbZ81ZLTwS2L0Ug8/m3u8
+#EXTINF:-1 gogroup-id="3751" tvg-id="" tvg-name="Movi" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/MOVI_TEMP.png" group-title="Go Group Media (SSL)",Movi
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRFIV2q-mOC1Pgmm1nLKt_As/m3u8
+#EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/OMLIVE_TEMP.png" group-title="Go Group Media (SSL)",Omlive
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRHcW2o-5yx8PDcJLG6q5rY4/m3u8
+#EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="Strilex" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/STRILEX_TEMP.png" group-title="Go Group Media (SSL)",Strilex
+https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRLE1e1_Idul84zKj90clkiI/m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio (NON SSL)
-http://stream-02.goradio.sbs:8000/TikTok_World
-#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna (NON SSL)
-http://stream-02.goradio.sbs:8020/RadioVolna_Europe
-#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit (SSL)
-http://stream-02.goradio.sbs:8040/RockHit_World
+#EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV1_TEMP.png" group-title="Go Group Media (NonSSL)",TV1
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHtlc4NE/m3u8
+#EXTINF:-1 gogroup-id="3723" tvg-id="" tvg-name="TV2" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV2_TEMP.png" group-title="Go Group Media (NonSSL)",TV2
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHt3lc4NE/m3u8
+#EXTINF:-1 gogroup-id="3711" tvg-id="" tvg-name="TV3" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV3_TEMP.png" group-title="Go Group Media (NonSSL)",TV3 Retro
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRPDj0cF1T1Q5CzWV7c7Q464/m3u8
+#EXTINF:-1 gogroup-id="3715" tvg-id="" tvg-name="SbMovie" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/SB_MOVIE_TEMP.png" group-title="Go Group Media (NonSSL)",SB Movie
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRMim4bEkX7vgEDaFAleKJ8Q/m3u8
+#EXTINF:-1 gogroup-id="3716" tvg-id="" tvg-name="Two" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TWO_TEMP.png" group-title="Go Group Media (NonSSL)",Two
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRH7i60gcR-SAaJypBRL7PAc/m3u8
+#EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/12_TEMP.png" group-title="Go Group Media (NonSSL)",12 канал
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikROMJd4rmbZ81ZLTwS2L0Ug8/m3u8
+#EXTINF:-1 gogroup-id="3751" tvg-id="" tvg-name="Movi" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/MOVI_TEMP.png" group-title="Go Group Media (NonSSL)",Movi
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRFIV2q-mOC1Pgmm1nLKt_As/m3u8
+#EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/OMLIVE_TEMP.png" group-title="Go Group Media (NonSSL)",Omlive
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRHcW2o-5yx8PDcJLG6q5rY4/m3u8
+#EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="Strilex" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/STRILEX_TEMP.png" group-title="Go Group Media (NonSSL)",Strilex
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRLE1e1_Idul84zKj90clkiI/m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio (SSL)
-https://stream-01.goradio.sbs:8000/TikTok_World
-#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna (SSL)
-https://stream-01.goradio.sbs:8020/RadioVolna_Europe
-#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit (SSL)
-https://stream-01.goradio.sbs:8040/RockHit_World
+#EXTINF:-1 gogroup-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV1_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service01
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikROpfd3UsgbCiF4qdoJCdikc/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV2_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service02
+http://s-dal01.ott.gomd.fun:8080/memfs/1307e982-35b9-4d59-b91f-512a5f24364d.m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV3_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service03
+http://s-dal01.ott.gomd.fun:8080/memfs/44e9189d-4bfa-40cc-98bc-c14ef949a255.m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV4_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service04
+http://s-dal01.ott.gomd.fun:8080/memfs/d285f463-06da-4511-b376-0470ae0fa7da.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio - Россия (NON SSL)
-http://stream-02.goradio.sbs:8010/TikTok_Russia
-#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna - Россия (NON SSL)
-http://stream-02.goradio.sbs:8030/RadioVolna_Russia
-#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit - Россия (NON SSL)
-http://stream-02.goradio.sbs:8050/RockHit_Russia
-
-#EXTINF:-1 tvg-id="" tvg-name="TikTokRadio" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/tiktokradio/TIKTOKRADIO_PICON.png" group-title="Radio - Go Group",TikTok Radio - Россия (SSL)
-https://stream-01.goradio.sbs:8010/TikTok_Russia
-#EXTINF:-1 tvg-id="" tvg-name="RadioVolna" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/radiovolna/RADIOVOLNA_PICON.png" group-title="Radio - Go Group",Radio Volna - Россия (SSL)
-https://stream-01.goradio.sbs:8030/RadioVolna_Russia
-#EXTINF:-1 tvg-id="" tvg-name="RockHit" tvg-logo="http://ott.gowatch.sbs/bin1/picons/goradio/rockhit/ROCKHIT_PICON.png" group-title="Radio - Go Group",Rock Hit - Россия (SSL)
-https://stream-01.goradio.sbs:8050/RockHit_Russia
+#EXTINF:-1 gogroup-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV1_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service01
+#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
+http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikROpfd3UsgbCiF4qdoJCdikc/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV2_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service02
+#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
+http://s-dal01.ott.gomd.fun:8080/memfs/1307e982-35b9-4d59-b91f-512a5f24364d.m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV3_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service03
+#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
+http://s-dal01.ott.gomd.fun:8080/memfs/44e9189d-4bfa-40cc-98bc-c14ef949a255.m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV4_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service04
+#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
+http://s-dal01.ott.gomd.fun:8080/memfs/d285f463-06da-4511-b376-0470ae0fa7da.m3u8
