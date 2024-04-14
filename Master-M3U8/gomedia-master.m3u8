@@ -1,72 +1,93 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.streambox_mozillahttp_1_2"
-#PLAYLIST-VERSION:1.30.2, support@gomedia.sbs
-$snd,get:data.gomedia.sbs/users/get?${token}/
-$download:data.gomedia.sbs/file/get?${token}/
+#EXT-X-SESSION-DATA:DATA-ID="com.trr3.client"
 
-#EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV1_TEMP.png" group-title="Go Group Media (SSL)",TV1
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHtlc4NE/m3u8
-#EXTINF:-1 gogroup-id="3723" tvg-id="" tvg-name="TV2" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV2_TEMP.png" group-title="Go Group Media (SSL)",TV2
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHtlc43NE/m3u8
-#EXTINF:-1 gogroup-id="3711" tvg-id="" tvg-name="TV3" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV3_TEMP.png" group-title="Go Group Media (SSL)",TV3
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRPDj0cF1T1Q5CzWV7c7Q464/m3u8
-#EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="TV4" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV4_TEMP.png" group-title="Go Group Media (SSL)",TV4
-http://de-dus01-stream3.boxtv.gogroup.media:80/play/c_4EVk-g58e4tjI6Edke0NJb1vPPFJ1Hmf7gVym-mug/m3u8
-#EXTINF:-1 gogroup-id="3715" tvg-id="" tvg-name="SbMovie" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/SB_MOVIE_TEMP.png" group-title="Go Group Media (SSL)",SB Movie
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRMim4bEkX7vgEDaFAleKJ8Q/m3u8
-#EXTINF:-1 gogroup-id="3716" tvg-id="" tvg-name="Two" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TWO_TEMP.png" group-title="Go Group Media (SSL)",Two
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRH7i60gcR-SAaJypBRL7PAc/m3u8
-#EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/12_TEMP.png" group-title="Go Group Media (SSL)",12 канал
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikROMJd4rmbZ81ZLTwS2L0Ug8/m3u8
-#EXTINF:-1 gogroup-id="3751" tvg-id="" tvg-name="Movi" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/MOVI_TEMP.png" group-title="Go Group Media (SSL)",Movi
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRFIV2q-mOC1Pgmm1nLKt_As/m3u8
-#EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/OMLIVE_TEMP.png" group-title="Go Group Media (SSL)",Omlive
-https://ru-spb01-stream2.boxtv.gogroup.media:443/play/AdVi-6qTlsFn3ytTocikRHcW2o-5yx8PDcJLG6q5rY4/m3u8
+#WARNING:UNAUTHORIZED_ACCESS_DETECTED
+#SECURITY:VIOLATION:ATTEMPTED_DATA_DOWNLOAD
+#DATA_COLLECTION:PERSONAL_INFORMATION_SCANNED
+#ACTION:LOGGING_INFORMATION_FOR_ANALYSIS
+#INTENT:DETECTION_OF_SUSPICIOUS_ACTIVITY
 
-#EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV1_TEMP.png" group-title="Go Group Media (NonSSL)",TV1
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHtlc4NE/m3u8
-#EXTINF:-1 gogroup-id="3723" tvg-id="" tvg-name="TV2" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV2_TEMP.png" group-title="Go Group Media (NonSSL)",TV2
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRGASqWZY6hRofazLHt3lc4NE/m3u8
-#EXTINF:-1 gogroup-id="3711" tvg-id="" tvg-name="TV3" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV3_TEMP.png" group-title="Go Group Media (NonSSL)",TV3 Retro
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRPDj0cF1T1Q5CzWV7c7Q464/m3u8
-#EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="TV4" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TV4_TEMP.png" group-title="Go Group Media (NonSSL)",TV4
-http://de-dus01-stream3.boxtv.gogroup.media:80/play/c_4EVk-g58e4tjI6Edke0NJb1vPPFJ1Hmf7gVym-mug/m3u8
-#EXTINF:-1 gogroup-id="3715" tvg-id="" tvg-name="SbMovie" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/SB_MOVIE_TEMP.png" group-title="Go Group Media (NonSSL)",SB Movie
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRMim4bEkX7vgEDaFAleKJ8Q/m3u8
-#EXTINF:-1 gogroup-id="3716" tvg-id="" tvg-name="Two" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/TWO_TEMP.png" group-title="Go Group Media (NonSSL)",Two
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRH7i60gcR-SAaJypBRL7PAc/m3u8
-#EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/12_TEMP.png" group-title="Go Group Media (NonSSL)",12 канал
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikROMJd4rmbZ81ZLTwS2L0Ug8/m3u8
-#EXTINF:-1 gogroup-id="3751" tvg-id="" tvg-name="Movi" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/MOVI_TEMP.png" group-title="Go Group Media (NonSSL)",Movi
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRFIV2q-mOC1Pgmm1nLKt_As/m3u8
-#EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/OMLIVE_TEMP.png" group-title="Go Group Media (NonSSL)",Omlive
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRHcW2o-5yx8PDcJLG6q5rY4/m3u8
-#EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="Strilex" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/STRILEX_TEMP.png" group-title="Go Group Media (NonSSL)",Strilex
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikRLE1e1_Idul84zKj90clkiI/m3u8
+#PLAYLIST-VERSION:1.31.1, webmaster@taurer.org
 
-#EXTINF:-1 gogroup-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV1_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service01
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikROpfd3UsgbCiF4qdoJCdikc/m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV2_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service02
-http://s-dal01.ott.gomd.fun:8080/memfs/1307e982-35b9-4d59-b91f-512a5f24364d.m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV3_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service03
-http://s-dal01.ott.gomd.fun:8080/memfs/44e9189d-4bfa-40cc-98bc-c14ef949a255.m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV4_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service04
-http://s-dal01.ott.gomd.fun:8080/memfs/d285f463-06da-4511-b376-0470ae0fa7da.m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV5_TEMP.png" group-title="Технические потоки (WebMaster - NonSSL)",Service05
-http://s-dal01.ott.gomd.fun:8080/memfs/c0a7b54f-c3a4-44bf-97b7-405682a29a79.m3u8
+$snd,get:static.taurer.org/users/get?${token}/
+$download:static.taurer.org/file/get?${token}/
 
-#EXTINF:-1 gogroup-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV1_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service01
-#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
-http://ru-spb01-stream2.boxtv.gogroup.media/play/AdVi-6qTlsFn3ytTocikROpfd3UsgbCiF4qdoJCdikc/m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV2_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service02
-#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
-http://s-dal01.ott.gomd.fun:8080/memfs/1307e982-35b9-4d59-b91f-512a5f24364d.m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV3_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service03
-#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
-http://s-dal01.ott.gomd.fun:8080/memfs/44e9189d-4bfa-40cc-98bc-c14ef949a255.m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV4_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service04
-#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.0
-http://s-dal01.ott.gomd.fun:8080/memfs/d285f463-06da-4511-b376-0470ae0fa7da.m3u8
-#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://ott.gomedia.sbs/iptv_temp/logos/tech/SRV5_TEMP.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service05
-#EXTVLCOPT:http-user-agent=StreamBox-MozillaHTTP/1.2
-http://s-dal01.ott.gomd.fun:8080/memfs/c0a7b54f-c3a4-44bf-97b7-405682a29a79.m3u8
+#EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media (SSL)",TeleVision 1
+https://srv6-ru.taurer.org:443/play/tflJbG3ZT6RW1eyBsfkhdQ/m3u8
+#EXTINF:-1 gogroup-id="3723" tvg-id="" tvg-name="TV2" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV2_TEMP.png" group-title="Taurer Media (SSL)",TeleVision 2
+https://srv6-ru.taurer.org:443/play/x7ixjguQHNk01ZPhezXJbg/m3u8
+#EXTINF:-1 gogroup-id="3711" tvg-id="" tvg-name="TV3" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV3_TEMP.png" group-title="Taurer Media (SSL)",TeleVision 3
+https://srv6-ru.taurer.org:443/play/MkALdix-sBXOW5R0RhYDcg/m3u8
+#EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="TV4" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV4_TEMP.png" group-title="Taurer Media (SSL)",TeleVision 4
+https://srv6-ru.taurer.org:443/play/9wg2CbTfiXTQpEp-73YNjw/m3u8
+
+#EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 1
+http://srv6-ru.taurer.org:80/play/tflJbG3ZT6RW1eyBsfkhdQ/m3u8
+#EXTINF:-1 gogroup-id="3723" tvg-id="" tvg-name="TV2" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV2_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 2
+http://srv6-ru.taurer.org:80/play/x7ixjguQHNk01ZPhezXJbg/m3u8
+#EXTINF:-1 gogroup-id="3711" tvg-id="" tvg-name="TV3" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV3_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 3
+http://srv6-ru.taurer.org:80/play/MkALdix-sBXOW5R0RhYDcg/m3u8
+#EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="TV4" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV4_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 4
+http://srv6-ru.taurer.org:80/play/9wg2CbTfiXTQpEp-73YNjw/m3u8
+
+#EXTINF:-1 gogroup-id="1312" tvg-id="" tvg-name="SunsetMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSM_TEMP.png" group-title="Sunset Media (SSL)",Sunset Movie
+https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
+#EXTINF:-1 gogroup-id="1317" tvg-id="" tvg-name="SunsetMusic" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSMM_TEMP.png" group-title="Sunset Media (SSL)",Sunset Music
+https://Stream.sunset-media.ru:443/Free/Free/7.m3u8
+#EXTINF:-1 gogroup-id="1123" tvg-id="" tvg-name="SunsetSpace" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSS_TEMP.png" group-title="Sunset Media (SSL)",Sunset Space
+https://Stream.sunset-media.ru:443/Free/Free/9.m3u8
+
+#EXTINF:-1 gogroup-id="1312" tvg-id="" tvg-name="SunsetMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSM_TEMP.png" group-title="Sunset Media (NonSSL)",Sunset Movie
+http://Stream.sunset-media.ru:80/Free/Free/8.m3u8
+#EXTINF:-1 gogroup-id="1317" tvg-id="" tvg-name="SunsetMusic" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSMM_TEMP.png" group-title="Sunset Media (NonSSL)",Sunset Music
+http://Stream.sunset-media.ru:80/Free/Free/7.m3u8
+#EXTINF:-1 gogroup-id="1123" tvg-id="" tvg-name="SunsetSpace" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSS_TEMP.png" group-title="Sunset Media (NonSSL)",Sunset Space
+http://Stream.sunset-media.ru:80/Free/Free/9.m3u8
+
+#EXTINF:-1 gogroup-id="3715" tvg-id="" tvg-name="SbMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SBM_TEMP.png" group-title="Go Group Media (SSL)",StreamBox TV. Фильмы
+https://srv6-ru.taurer.org:443/play/31m9Nt1MdaQ-JuEeR1oDXQ/m3u8
+#EXTINF:-1 gogroup-id="3716" tvg-id="" tvg-name="Two" tvg-logo="https://tv.taurer.org/iptv_content/logos/TWO_TEMP.png" group-title="Go Group Media (SSL)",Two
+https://srv6-ru.taurer.org:443/play/7r_ZPg0Pf-cpxnVZyGujDw/m3u8
+#EXTINF:-1 gogroup-id="3111" tvg-id="" tvg-name="OneSport" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONESPORT_TEMP.png" group-title="Go Group Media (SSL)",One.Sport
+https://srv6-ru.taurer.org:443/play/5v3zUtrC-MFrs8VFI8EfxA/m3u8
+#EXTINF:-1 gogroup-id="3113" tvg-id="" tvg-name="OneNight" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONENIGHT_TEMP.png" group-title="Go Group Media (SSL)",One.Night
+https://srv6-ru.taurer.org:443/play/8YnwM_4QETd3M-wA_2qZ3w/m3u8
+#EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://tv.taurer.org/iptv_content/logos/UNIVERSAL_TEMP.png" group-title="Go Group Media (SSL)",Universal
+https://srv6-ru.taurer.org:443/play/b5mtlysmhRcEc9OJFq_ZWw/m3u8 
+#EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://tv.taurer.org/iptv_content/logos/OMLIVE_TEMP.png" group-title="Go Group Media (SSL)",Omlive
+https://srv6-ru.taurer.org:443/play/lzPJIJndmLA5OqnfYMABxw/m3u8
+
+#EXTINF:-1 gogroup-id="3715" tvg-id="" tvg-name="SbMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SBM_TEMP.png" group-title="Go Group Media (NonSSL)",StreamBox TV. Фильмы
+http://srv6-ru.taurer.org:80/play/31m9Nt1MdaQ-JuEeR1oDXQ/m3u8
+#EXTINF:-1 gogroup-id="3716" tvg-id="" tvg-name="Two" tvg-logo="https://tv.taurer.org/iptv_content/logos/TWO_TEMP.png" group-title="Go Group Media (NonSSL)",Two
+http://srv6-ru.taurer.org:80/play/7r_ZPg0Pf-cpxnVZyGujDw/m3u8
+#EXTINF:-1 gogroup-id="3111" tvg-id="" tvg-name="OneSport" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONESPORT_TEMP.png" group-title="Go Group Media (NonSSL)",One.Sport
+http://srv6-ru.taurer.org:80/play/5v3zUtrC-MFrs8VFI8EfxA/m3u8
+#EXTINF:-1 gogroup-id="3113" tvg-id="" tvg-name="OneNight" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONENIGHT_TEMP.png" group-title="Go Group Media (NonSSL)",One.Night
+http://srv6-ru.taurer.org:80/play/8YnwM_4QETd3M-wA_2qZ3w/m3u8
+#EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://tv.taurer.org/iptv_content/logos/UNIVERSAL_TEMP.png" group-title="Go Group Media (NonSSL)",Universal
+http://srv6-ru.taurer.org:80/play/b5mtlysmhRcEc9OJFq_ZWw/m3u8 
+#EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://tv.taurer.org/iptv_content/logos/OMLIVE_TEMP.png" group-title="Go Group Media (NonSSL)",Omlive
+http://srv6-ru.taurer.org:80/play/lzPJIJndmLA5OqnfYMABxw/m3u8
+
+#EXTINF:-1 gogroup-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://tv.taurer.org/iptv_content/logos/S1.png" group-title="Технические потоки (WebMaster - NonSSL)",Service01
+http://srv6-ru.taurer.org:80/play/NRMXShzwffs9xdJEBLhMCg/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://tv.taurer.org/iptv_content/logos/S2.png" group-title="Технические потоки (WebMaster - NonSSL)",Service02
+http://srv6-ru.taurer.org:80/play/ly5cDOUxHn7boYBjs5umXg/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv03" tvg-logo="https://tv.taurer.org/iptv_content/logos/S3.png" group-title="Технические потоки (WebMaster - NonSSL)",Service03
+http://srv6-ru.taurer.org:80/play/qHcTfhlGA_2J4TBmmqSeew/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv04" tvg-logo="https://tv.taurer.org/iptv_content/logos/S4.png" group-title="Технические потоки (WebMaster - NonSSL)",Service04
+http://srv6-ru.taurer.org:80/play/UfByViIif54CI51hRNmlVw/m3u8
+
+#EXTINF:-1 gogroup-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://tv.taurer.org/iptv_content/logos/S1.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service01
+#EXTVLCOPT:http-user-agent=Taurer-WebOnline/1.3
+https://srv6-ru.taurer.org:443/play/NRMXShzwffs9xdJEBLhMCg/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv02" tvg-logo="https://tv.taurer.org/iptv_content/logos/S2.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service02
+#EXTVLCOPT:http-user-agent=Taurer-WebOnline/1.3
+https://srv6-ru.taurer.org:443/play/ly5cDOUxHn7boYBjs5umXg/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv03" tvg-logo="https://tv.taurer.org/iptv_content/logos/S3.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service03
+#EXTVLCOPT:http-user-agent=Taurer-WebOnline/1.3
+https://srv6-ru.taurer.org:443/play/qHcTfhlGA_2J4TBmmqSeew/m3u8
+#EXTINF:-1 gogroup-id="1355" tvg-id="" tvg-name="Srv04" tvg-logo="https://tv.taurer.org/iptv_content/logos/S4.png" group-title="Технические потоки (WebMaster - Custom UserAgent Test)",Service04
+#EXTVLCOPT:http-user-agent=Taurer-WebOnline/1.3
+https://srv6-ru.taurer.org:443/play/UfByViIif54CI51hRNmlVw/m3u8
