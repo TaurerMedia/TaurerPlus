@@ -7,7 +7,7 @@
 #ACTION:LOGGING_INFORMATION_FOR_ANALYSIS
 #INTENT:DETECTION_OF_SUSPICIOUS_ACTIVITY
 
-#PLAYLIST-VERSION:1.31.2, webmaster@taurer.org
+#PLAYLIST-VERSION:1.31.2.1 HOTFIX, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
@@ -20,7 +20,7 @@ https://srv6-ru.taurer.org:443/play/x7ixjguQHNk01ZPhezXJbg/m3u8
 https://srv6-ru.taurer.org:443/play/MkALdix-sBXOW5R0RhYDcg/m3u8
 #EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="TV4" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV4_TEMP.png" group-title="Taurer Media (SSL)",TeleVision 4
 https://srv6-ru.taurer.org:443/play/9wg2CbTfiXTQpEp-73YNjw/m3u8
-#EXTINF:-1 gogroup-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media (SSL)",Groovezzo
+#EXTINF:-1 gogroup-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV4_TEMP.png" group-title="Taurer Media (SSL)",Groovezzo
 https://srv7-ru.taurer.org:443/play/9S1siSHkbu2phC3A7ez-ID-lCG1WO9JCBZntOsezhBg/m3u8
 
 #EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 1
@@ -31,7 +31,7 @@ http://srv6-ru.taurer.org:80/play/x7ixjguQHNk01ZPhezXJbg/m3u8
 http://srv6-ru.taurer.org:80/play/MkALdix-sBXOW5R0RhYDcg/m3u8
 #EXTINF:-1 gogroup-id="1314" tvg-id="" tvg-name="TV4" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV4_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 4
 http://srv6-ru.taurer.org:80/play/9wg2CbTfiXTQpEp-73YNjw/m3u8
-#EXTINF:-1 gogroup-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media (NonSSL)",Groovezzo
+#EXTINF:-1 gogroup-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV4_TEMP.png" group-title="Taurer Media (NonSSL)",Groovezzo
 http://srv7-ru.taurer.org:80/play/9S1siSHkbu2phC3A7ez-ID-lCG1WO9JCBZntOsezhBg/m3u8
 
 #EXTINF:-1 gogroup-id="1312" tvg-id="" tvg-name="SunsetMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSM_TEMP.png" group-title="Sunset Media (SSL)",Sunset Movie
@@ -55,7 +55,7 @@ https://srv6-ru.taurer.org:443/play/7r_ZPg0Pf-cpxnVZyGujDw/m3u8
 #EXTINF:-1 gogroup-id="3111" tvg-id="" tvg-name="OneSport" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONESPORT_TEMP.png" group-title="Go Group Media (SSL)",One.Sport
 https://srv6-ru.taurer.org:443/play/5v3zUtrC-MFrs8VFI8EfxA/m3u8
 #EXTINF:-1 gogroup-id="3113" tvg-id="" tvg-name="OneNight" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONENIGHT_TEMP.png" group-title="Go Group Media (SSL)",One.Night
-https://srv6-ru.taurer.org:443/play/8YnwM_4QETd3M-wA_2qZ3w/m3u8
+https://srv7-ru.taurer.org:443/play/9S1siSHkbu2phC3A7ez-IIhSFPXPZo83UwvTsydrGM8/m3u8
 #EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://tv.taurer.org/iptv_content/logos/UNIVERSAL_TEMP.png" group-title="Go Group Media (SSL)",Universal
 https://srv6-ru.taurer.org:443/play/b5mtlysmhRcEc9OJFq_ZWw/m3u8 
 #EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://tv.taurer.org/iptv_content/logos/OMLIVE_TEMP.png" group-title="Go Group Media (SSL)",Omlive
@@ -68,7 +68,7 @@ http://srv6-ru.taurer.org:80/play/7r_ZPg0Pf-cpxnVZyGujDw/m3u8
 #EXTINF:-1 gogroup-id="3111" tvg-id="" tvg-name="OneSport" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONESPORT_TEMP.png" group-title="Go Group Media (NonSSL)",One.Sport
 http://srv6-ru.taurer.org:80/play/5v3zUtrC-MFrs8VFI8EfxA/m3u8
 #EXTINF:-1 gogroup-id="3113" tvg-id="" tvg-name="OneNight" tvg-logo="https://tv.taurer.org/iptv_content/logos/ONENIGHT_TEMP.png" group-title="Go Group Media (NonSSL)",One.Night
-http://srv6-ru.taurer.org:80/play/8YnwM_4QETd3M-wA_2qZ3w/m3u8
+http://srv7-ru.taurer.org:80/play/9S1siSHkbu2phC3A7ez-IIhSFPXPZo83UwvTsydrGM8/m3u8
 #EXTINF:-1 gogroup-id="3787" tvg-id="" tvg-name="12ch" tvg-logo="https://tv.taurer.org/iptv_content/logos/UNIVERSAL_TEMP.png" group-title="Go Group Media (NonSSL)",Universal
 http://srv6-ru.taurer.org:80/play/b5mtlysmhRcEc9OJFq_ZWw/m3u8 
 #EXTINF:-1 gogroup-id="1114" tvg-id="" tvg-name="Omlive" tvg-logo="https://tv.taurer.org/iptv_content/logos/OMLIVE_TEMP.png" group-title="Go Group Media (NonSSL)",Omlive
