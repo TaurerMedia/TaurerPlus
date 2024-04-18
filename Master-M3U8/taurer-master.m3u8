@@ -7,7 +7,7 @@
 #ACTION:LOGGING_INFORMATION_FOR_ANALYSIS
 #INTENT:DETECTION_OF_SUSPICIOUS_ACTIVITY
 
-#PLAYLIST-VERSION:1.31.3, webmaster@taurer.org
+#PLAYLIST-VERSION:1.31.4, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
@@ -23,7 +23,9 @@ https://srv3-ru.taurer.org:443/web/web/1.m3u8
 #EXTINF:-1 gogroup-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media (SSL)",Groovezzo
 https://srv7-ru.taurer.org:443/play/9S1siSHkbu2phC3A7ez-ID-lCG1WO9JCBZntOsezhBg/m3u8
 #EXTINF:-1 gogroup-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media (SSL)",RRTV Europe
-https://Stream.sunset-media.ru:443/Free/Free/11.m3u8
+https://Stream.sunset-media.ru:443/y2nfx2ktYC/YqsJvhTCfR/12.m3u8
+#EXTINF:-1 gogroup-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media (SSL)",NINJA
+https://srv10-ru.taurer.org:443/play/sN6bBZwSwfAp_afwgphV07G3A3aJlKtuRrTXw_rt4VU/m3u8
 
 #EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 1
 http://srv6-ru.taurer.org:80/play/tflJbG3ZT6RW1eyBsfkhdQ/m3u8
@@ -35,8 +37,10 @@ http://srv6-ru.taurer.org:80/play/MkALdix-sBXOW5R0RhYDcg/m3u8
 http://srv3-ru.taurer.org:80/web/web/1.m3u8
 #EXTINF:-1 gogroup-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media (NonSSL)",Groovezzo
 http://srv7-ru.taurer.org:80/play/9S1siSHkbu2phC3A7ez-ID-lCG1WO9JCBZntOsezhBg/m3u8
-#EXTINF:-1 gogroup-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media (SSL)",RRTV Europe
-http://Stream.sunset-media.ru:80/Free/Free/11.m3u8
+#EXTINF:-1 gogroup-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media (NonSSL)",RRTV Europe
+http://Stream.sunset-media.ru:80/y2nfx2ktYC/YqsJvhTCfR/12.m3u8
+#EXTINF:-1 gogroup-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media (NonSSL)",NINJA
+http://srv10-ru.taurer.org:80/play/sN6bBZwSwfAp_afwgphV07G3A3aJlKtuRrTXw_rt4VU/m3u8
 
 #EXTINF:-1 gogroup-id="1312" tvg-id="" tvg-name="SunsetMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSM_TEMP.png" group-title="Sunset Media (SSL)",Sunset Movie
 https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
