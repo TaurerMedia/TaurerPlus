@@ -7,7 +7,7 @@
 #ACTION:LOGGING_INFORMATION_FOR_ANALYSIS
 #INTENT:DETECTION_OF_SUSPICIOUS_ACTIVITY
 
-#PLAYLIST-VERSION:1.31.5, webmaster@taurer.org
+#PLAYLIST-VERSION:1.31.6, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
@@ -28,6 +28,8 @@ https://Stream.sunset-media.ru:443/y2nfx2ktYC/YqsJvhTCfR/12.m3u8
 https://srv10-ru.taurer.org:443/play/sN6bBZwSwfAp_afwgphV07G3A3aJlKtuRrTXw_rt4VU/m3u8
 #EXTINF:-1 gogroup-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media (SSL)",World-1
 https://srv10-ru.taurer.org:443/play/sN6bBZwSwfAp_afwgphV0zCGK1xOS-39pFp_ZSH76cI/m3u8
+#EXTINF:-1 gogroup-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media (SSL)",Криминал и Полиция
+https://srv10-ru.taurer.org:443/uYUCkt2eNp/fc4Xkx8YaH/6.m3u8
 
 #EXTINF:-1 gogroup-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 1
 http://srv6-ru.taurer.org:80/play/tflJbG3ZT6RW1eyBsfkhdQ/m3u8
@@ -45,6 +47,8 @@ http://Stream.sunset-media.ru:80/y2nfx2ktYC/YqsJvhTCfR/12.m3u8
 http://srv10-ru.taurer.org:80/play/sN6bBZwSwfAp_afwgphV07G3A3aJlKtuRrTXw_rt4VU/m3u8
 #EXTINF:-1 gogroup-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media (NonSSL)",World-1
 http://srv10-ru.taurer.org:80/play/sN6bBZwSwfAp_afwgphV0zCGK1xOS-39pFp_ZSH76cI/m3u8
+#EXTINF:-1 gogroup-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media (NonSSL)",Криминал и Полиция
+http://srv10-ru.taurer.org:80/uYUCkt2eNp/fc4Xkx8YaH/6.m3u8
 
 #EXTINF:-1 gogroup-id="1312" tvg-id="" tvg-name="SunsetMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSM_TEMP.png" group-title="Sunset Media (SSL)",Sunset Movie
 https://Stream.sunset-media.ru:443/Free/Free/8.m3u8
