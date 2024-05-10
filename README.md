@@ -15,7 +15,7 @@ Want to watch our channel's in online? Come to our website!
 - [Taurer+ Web](https://tv.taurer.org/)
 - [Taurer+ Play](https://tv.taurer.org/player)
 
-  ## 📞 Contact
+## 📞 Contact
 
 * Webmaster: `webmaster@taurer.org`
 * Technical support: `git-quest@taurer.org`
