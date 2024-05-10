@@ -3,6 +3,7 @@
 # 📺 Taurer+: m3u8 playlist for web masters
 
 [![Latest Stable Release](https://img.shields.io/badge/stable%20version-8A2BE2)]()
+[![Latest Update](https://img.shields.io/badge/last%20update%2011/05/2024-202020)]()
 
 **Taurer Media Alliance** is a media conglomerate with branches across numerous CIS and European countries.
 We specialize in producing radio channels of various genres, developing new TV channels for our regional branches and
