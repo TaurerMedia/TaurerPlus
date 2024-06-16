@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png",Groovezzo
-https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/7.m3u8
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png",Ninja
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png",KidsPlanet
@@ -15,3 +15,5 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 #EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="LVPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVPOLICE_TEMP.png",LIVE:Полицейский с рублевки
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
+#EXTINF:-1 group-title="Медиахолдинг Taurer.Org" tvg-id="LVMYLO" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMYLO_TEMP.png",LIVE:Мылодрама
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
