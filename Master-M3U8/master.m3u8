@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.taurer.org/epg_content/taurerru.xml.gz"
 #EXT-X-SESSION-DATA:DATA-ID="com.trr3.client"
 
-#PLAYLIST-VERSION:1.01.2, webmaster@taurer.org
+#PLAYLIST-VERSION:1.01.3, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
@@ -26,6 +26,8 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
 #EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media",Кулинар HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
+#EXTINF:-1 taurer-id="1531" tvg-id="" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" group-title="Taurer Media",SCORELIVE 1 HD
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
 
 #EXTINF:-1 sunset-id="1312" tvg-id="" tvg-name="SunsetMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSM_TEMP.png" group-title="Sunset Media",Sunset Movie
 https://stream.sunset-media.ru:443/Free/Free/1.m3u8
@@ -36,9 +38,9 @@ https://stream.sunset-media.ru:443/Free/Free/3.m3u8
 #EXTINF:-1 sunset-id="4811" tvg-id="" tvg-name="SunsetKids" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSK_TEMP.png" group-title="Sunset Media",Sunset Kids
 https://stream.sunset-media.ru:443/Free/Free/4.m3u8
 
-#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network",LIVE:SCARYHOUSE
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/13.m3u8
-#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network",LIVE:MOVIE
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
-#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network",LIVE:MOVIE
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/21.m3u8
+#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network",LIVE:ХБ-ШОУ
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/31.m3u8
+#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network",LIVE:Мылодрама
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
+#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network",LIVE:Полицейский с Рублевки
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
