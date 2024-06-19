@@ -1,23 +1,21 @@
 #EXTM3U url-tvg="https://epg.taurer.org/epg_content/taurerru.xml.gz"
 #EXT-X-SESSION-DATA:DATA-ID="com.trr3.client"
 
-#PLAYLIST-VERSION:1.01.3, webmaster@taurer.org
+#PLAYLIST-VERSION:1.01.4, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
 
-#EXTINF:-1 taurer-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media",TeleVision 1
-https://srv6-ru.taurer.org:443/play/tflJbG3ZT6RW1eyBsfkhdQ/m3u8
 #EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media",Groovezzo
-https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/7.m3u8
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
 #EXTINF:-1 taurer-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media",RRTV Europe
-https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/6.m3u8
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
 #EXTINF:-1 taurer-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media",NINJA
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 #EXTINF:-1 taurer-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media",World-1
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
 #EXTINF:-1 taurer-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media",Криминал и Полиция
-https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/5.m3u8
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
 #EXTINF:-1 taurer-id="1131" tvg-id="" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png" group-title="Taurer Media",KidsPlanet
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
 #EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media",KidsPlanet+
