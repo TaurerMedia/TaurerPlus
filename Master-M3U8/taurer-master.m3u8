@@ -7,23 +7,21 @@
 #ACTION:LOGGING_INFORMATION_FOR_ANALYSIS
 #INTENT:DETECTION_OF_SUSPICIOUS_ACTIVITY
 
-#PLAYLIST-VERSION:1.31.6, webmaster@taurer.org
+#PLAYLIST-VERSION:1.31.7, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
 
-#EXTINF:-1 taurer-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media (SSL)",TeleVision 1
-https://srv6-ru.taurer.org:443/play/tflJbG3ZT6RW1eyBsfkhdQ/m3u8
 #EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media (SSL)",Groovezzo
-https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/7.m3u8
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
 #EXTINF:-1 taurer-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media (SSL)",RRTV Europe
-https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/6.m3u8
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
 #EXTINF:-1 taurer-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media (SSL)",NINJA
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 #EXTINF:-1 taurer-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media (SSL)",World-1
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
 #EXTINF:-1 taurer-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media (SSL)",Криминал и Полиция
-https://nl1.live-stream.plus.taurer.org:443/pbuPAuthGp/MDTTv32fbk/5.m3u8
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
 #EXTINF:-1 taurer-id="1131" tvg-id="" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png" group-title="Taurer Media (SSL)",KidsPlanet
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
 #EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media (SSL)",KidsPlanet+
@@ -33,18 +31,16 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
 #EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media (SSL)",Кулинар HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 
-#EXTINF:-1 taurer-id="3720" tvg-id="" tvg-name="TV1" tvg-logo="https://tv.taurer.org/iptv_content/logos/TV1_TEMP.png" group-title="Taurer Media (NonSSL)",TeleVision 1
-http://srv6-ru.taurer.org:80/play/tflJbG3ZT6RW1eyBsfkhdQ/m3u8
 #EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media (NonSSL)",Groovezzo
-http://nl1.live-stream.plus.taurer.org:80/pbuPAuthGp/MDTTv32fbk/7.m3u8
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/27.m3u8
 #EXTINF:-1 taurer-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media (NonSSL)",RRTV Europe
-http://nl1.live-stream.plus.taurer.org:80/pbuPAuthGp/MDTTv32fbk/6.m3u8
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/33.m3u8
 #EXTINF:-1 taurer-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media (NonSSL)",NINJA
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 #EXTINF:-1 taurer-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media (NonSSL)",World-1
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/7.m3u8
 #EXTINF:-1 taurer-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media (NonSSL)",Криминал и Полиция
-http://nl1.live-stream.plus.taurer.org:80/pbuPAuthGp/MDTTv32fbk/5.m3u8
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/34.m3u8
 #EXTINF:-1 taurer-id="1131" tvg-id="" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png" group-title="Taurer Media (NonSSL)",KidsPlanet
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/4.m3u8
 #EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media (NonSSL)",KidsPlanet+
@@ -72,19 +68,19 @@ http://stream.sunset-media.ru:80/Free/Free/3.m3u8
 #EXTINF:-1 sunset-id="4811" tvg-id="" tvg-name="SunsetKids" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSK_TEMP.png" group-title="Sunset Media (NonSSL)",Sunset Kids
 http://stream.sunset-media.ru:80/Free/Free/4.m3u8
 
-#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:SCARYHOUSE
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/13.m3u8
-#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:MOVIE
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
-#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:MOVIE
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/21.m3u8
+#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:ХБ-ШОУ
+https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/31.m3u8
+#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:Мылодрама
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
+#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:Полицейский с Рублевки
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
 
-#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:SCARYHOUSE
-http://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/13.m3u8
-#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:MOVIE
-http://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
-#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:MOVIE
-http://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/21.m3u8
+#EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:ХБ-ШОУ
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/31.m3u8
+#EXTINF:-1 dsn-id="1842" tvg-id="" tvg-name="LIVE_MOVIE" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVMOVIE_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:Мылодрама
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/25.m3u8
+#EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:Полицейский с Рублевки
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/15.m3u8
 
 #EXTINF:-1 taurer-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://tv.taurer.org/iptv_content/logos/S1.png" group-title="Технические потоки (WebMaster - SSL)",Service01
 https://nl1.live-stream.plus.taurer.org:443/play/n4oOtk56SJ_AXa6Szp592HJeXDPRhihcOhawBFswpKw/ts
