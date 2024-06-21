@@ -7,7 +7,7 @@
 #ACTION:LOGGING_INFORMATION_FOR_ANALYSIS
 #INTENT:DETECTION_OF_SUSPICIOUS_ACTIVITY
 
-#PLAYLIST-VERSION:1.31.7, webmaster@taurer.org
+#PLAYLIST-VERSION:1.31.8, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
@@ -74,6 +74,8 @@ https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/31.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
 #EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:Полицейский с Рублевки
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
+#EXTINF:-1 dsn-id="11018" tvg-id="" tvg-name="LIVE_SVATY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSVATY_TEMP.png" group-title="Digital Satellite Network (SSL)",LIVE:Сваты
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/17.m3u8
 
 #EXTINF:-1 dsn-id="3715" tvg-id="" tvg-name="LIVE_SCARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSCARY_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:ХБ-ШОУ
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/31.m3u8
@@ -81,6 +83,9 @@ http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/31.m3u8
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/25.m3u8
 #EXTINF:-1 dsn-id="1958" tvg-id="" tvg-name="LIVE_DRAMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVDRAMA_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:Полицейский с Рублевки
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/15.m3u8
+#EXTINF:-1 dsn-id="11018" tvg-id="" tvg-name="LIVE_SVATY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSVATY_TEMP.png" group-title="Digital Satellite Network (NonSSL)",LIVE:Сваты
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/17.m3u8
+
 
 #EXTINF:-1 taurer-id="4918" tvg-id="" tvg-name="Srv01" tvg-logo="https://tv.taurer.org/iptv_content/logos/S1.png" group-title="Технические потоки (WebMaster - SSL)",Service01
 https://nl1.live-stream.plus.taurer.org:443/play/n4oOtk56SJ_AXa6Szp592HJeXDPRhihcOhawBFswpKw/ts
