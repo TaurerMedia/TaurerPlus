@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.taurer.org/epg_content/taurerru.xml.gz"
 #EXT-X-SESSION-DATA:DATA-ID="com.trr3.client"
 
-#PLAYLIST-VERSION:1.01.5, webmaster@taurer.org
+#PLAYLIST-VERSION:1.01.6, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
@@ -44,3 +44,22 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/25.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/15.m3u8
 #EXTINF:-1 dsn-id="19311" tvg-id="" tvg-name="LIVE_SVARY" tvg-logo="https://tv.taurer.org/iptv_content/logos/LVSVATY_TEMP.png" group-title="Digital Satellite Network",LIVE:Сваты
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/17.m3u8
+
+#EXTINF:-1 fiftmediagroup-id="141" tvg-id="" tvg-name="15PLUSMUSIC" tvg-logo="https://tv.taurer.org/iptv_content/logos/15PLUSMUSIC_TEMP.png" group-title="15+ Media Group",15+ Music
+https://nl2.live-stream.plus.taurer.org/demo/demo/39.m3u8
+#EXTINF:-1 fiftmediagroup-id="100" tvg-id="" tvg-name="CRINGETV" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRINGETV_TEMP.png" group-title="15+ Media Group",Кринж ТВ
+https://nl2.live-stream.plus.taurer.org/demo/demo/6.m3u8
+#EXTINF:-1 fiftmediagroup-id="9238" tvg-id="" tvg-name="ALPHA_CINEMA" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHACINEMA_TEMP.png" group-title="15+ Media Group",Alpha Cinema
+https://nl2.live-stream.plus.taurer.org/demo/demo/36.m3u8
+#EXTINF:-1 fiftmediagroup-id="948" tvg-id="" tvg-name="ALPHA_ONENITE" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAONENITE_TEMP.png" group-title="15+ Media Group",Alpha Onenite
+https://nl2.live-stream.plus.taurer.org/demo/demo/35.m3u8
+#EXTINF:-1 fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png" group-title="15+ Media Group",Alpha Funny
+https://nl2.live-stream.plus.taurer.org/demo/demo/37.m3u8
+#EXTINF:-1 fiftmediagroup-id="1384" tvg-id="" tvg-name="ALPHA_FUNNY" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAFUNNY_TEMP.png" group-title="15+ Media Group",Alpha Funny
+https://nl2.live-stream.plus.taurer.org/demo/demo/37.m3u8
+#EXTINF:-1 fiftmediagroup-id="1246" tvg-id="" tvg-name="ALPHA_GAMES" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAGAMES_TEMP.png" group-title="15+ Media Group",Alpha Games
+https://nl2.live-stream.plus.taurer.org/demo/demo/38.m3u8
+#EXTINF:-1 fiftmediagroup-id="09" tvg-id="" tvg-name="ALPHA_ANIME" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHAANIME_TEMP.png" group-title="15+ Media Group",Alpha Anime
+https://nl2.live-stream.plus.taurer.org/demo/demo/4.m3u8
+#EXTINF:-1 fiftmediagroup-id="190" tvg-id="" tvg-name="ALPHA_SEX" tvg-logo="https://tv.taurer.org/iptv_content/logos/ALPHASEX_TEMP.png" group-title="15+ Media Group",Alpha Sex
+https://nl2.live-stream.plus.taurer.org/demo/demo/5.m3u8
