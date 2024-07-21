@@ -1,21 +1,17 @@
 #EXTM3U url-tvg="https://epg.taurer.org/epg_content/taurerru.xml.gz"
 #EXT-X-SESSION-DATA:DATA-ID="com.trr3.client"
 
-#PLAYLIST-VERSION:1.01.6, webmaster@taurer.org
+#PLAYLIST-VERSION:1.01.7, webmaster@taurer.org
 
 $snd,get:static.taurer.org/users/get?${token}/
 $download:static.taurer.org/file/get?${token}/
 
 #EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="Groovezzo" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="Taurer Media",Groovezzo
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/27.m3u8
-#EXTINF:-1 taurer-id="11" tvg-id="" tvg-name="RRTVEU" tvg-logo="https://tv.taurer.org/iptv_content/logos/RRTV_TEMP.png" group-title="Taurer Media",RRTV Europe
-https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/33.m3u8
 #EXTINF:-1 taurer-id="135" tvg-id="" tvg-name="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png" group-title="Taurer Media",NINJA
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/3.m3u8
 #EXTINF:-1 taurer-id="5323" tvg-id="" tvg-name="W1" tvg-logo="https://tv.taurer.org/iptv_content/logos/W1_TEMP.png" group-title="Taurer Media",World-1
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
-#EXTINF:-1 taurer-id="4321" tvg-id="" tvg-name="CRIMINALPOLICE" tvg-logo="https://tv.taurer.org/iptv_content/logos/CRIMINALPOLICE_TEMP.png" group-title="Taurer Media",Криминал и Полиция
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/34.m3u8
 #EXTINF:-1 taurer-id="1131" tvg-id="" tvg-name="KIDSPLANET" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANET_TEMP.png" group-title="Taurer Media",KidsPlanet
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
 #EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media",KidsPlanet+
@@ -26,6 +22,10 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 #EXTINF:-1 taurer-id="1531" tvg-id="" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" group-title="Taurer Media",SCORELIVE 1 HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/30.m3u8
+#EXTINF:-1 taurer-id="1339" tvg-id="" tvg-name="AUTOGEAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/AUTOGEAR_TEMP.png" group-title="Taurer Media",Авто-Гир
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/28.m3u8
+#EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="TRRGEFILM" tvg-logo="https://tv.taurer.org/iptv_content/logos/TRRGEFILM_TEMP.png" group-title="Taurer Media",TRR Georgia National Film
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/29.m3u8
 
 #EXTINF:-1 sunset-id="1312" tvg-id="" tvg-name="SunsetMovie" tvg-logo="https://tv.taurer.org/iptv_content/logos/SSM_TEMP.png" group-title="Sunset Media",Sunset Movie
 https://stream.sunset-media.ru:443/Free/Free/1.m3u8
