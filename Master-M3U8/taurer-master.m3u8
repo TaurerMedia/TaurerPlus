@@ -23,7 +23,7 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/4.m3u8
 #EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media (SSL)",KidsPlanet+
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
 #EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png" group-title="Taurer Media (SSL)",Quality HD
-https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
+https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
 #EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media (SSL)",Кулинар HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 #EXTINF:-1 taurer-id="1531" tvg-id="" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" group-title="Taurer Media (SSL)",SCORELIVE 1 HD
@@ -44,7 +44,7 @@ http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/4.m3u8
 #EXTINF:-1 taurer-id="01" tvg-id="" tvg-name="KIDSPLANETPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/KIDSPLANETPLUS_TEMP.png" group-title="Taurer Media (NonSSL)",KidsPlanet+
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/2.m3u8
 #EXTINF:-1 taurer-id="948" tvg-id="" tvg-name="QUALITYHD" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png" group-title="Taurer Media (NonSSL)",Quality HD
-http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/2.m3u8
+http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/6.m3u8
 #EXTINF:-1 taurer-id="131" tvg-id="" tvg-name="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png" group-title="Taurer Media (NonSSL)",Кулинар HD
 http://nl2.live-stream.plus.taurer.org:80/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 #EXTINF:-1 taurer-id="1531" tvg-id="" tvg-name="SCORELIVEONE" tvg-logo="https://tv.taurer.org/iptv_content/logos/SCORELIVEONE_TEMP.png" group-title="Taurer Media (NonSSL)",SCORELIVE 1 HD
