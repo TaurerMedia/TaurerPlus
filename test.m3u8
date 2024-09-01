@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="01 TAURERPLUS",01 ZHUKIDEBUG HLS
+http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.m3u8
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="01 TAURERPLUS",01 ZHUKIDEBUG TS
+http://95.216.99.144:80/A9JBAUzCRz/RJawVHTF2H/33.ts
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="02 TAURERPLUS",02 ZHUKIDEBUG HLS
+http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.m3u8
+#EXTINF:-1 taurer-id="1331" tvg-id="" tvg-name="TAURERPLUS" tvg-logo="https://tv.taurer.org/iptv_content/logos/GROOVEZZO_TEMP.png" group-title="02 TAURERPLUS",02 ZHUKIDEBUG TS
+http://jordan.a-media.one:80/gTwhegxP5F/gWUUj7zraf/9.ts
