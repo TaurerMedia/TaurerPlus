@@ -7,31 +7,31 @@
 #download:cdn.a-media.one/file/get?${token}/
 
 #EXTINF:-1 taurer-id="1234" tvg-id="" tvg-name="WAR-1" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png" group-title="Russia A-Media",WAR-1
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/5.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/5.m3u8
 #EXTINF:-1 taurer-id="5678" tvg-id="" tvg-name="WAR-2" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png" group-title="Russia A-Media",WAR-2
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/10.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/10.m3u8
 #EXTINF:-1 taurer-id="9101" tvg-id="" tvg-name="Kultura" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KULTURA_TEMP.png" group-title="Russia A-Media",Kultura
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/6.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/6.m3u8
 #EXTINF:-1 taurer-id="1121" tvg-id="" tvg-name="4KIDS" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png" group-title="Russia A-Media",4KIDS
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/7.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/7.m3u8
 #EXTINF:-1 taurer-id="2065" tvg-id="" tvg-name="KidsPlus" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/KIDSPLUS_TEMP.png" group-title="Russia A-Media",KidsPlus
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/29.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/29.m3u8
 #EXTINF:-1 taurer-id="1432" tvg-id="" tvg-name="ACM" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/ACM_TEMP.png" group-title="Russia A-Media",ACM
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/24.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/24.m3u8
 #EXTINF:-1 taurer-id="1021" tvg-id="" tvg-name="StreamBox TV. Premium Hit" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/SBPREMIUMHIT_TEMP.png" group-title="Russia A-Media",StreamBox TV. Premium Hit
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/14.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/14.m3u8
 #EXTINF:-1 taurer-id="1643" tvg-id="" tvg-name="StreamBox TV. Music Hit" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/MUSICHIT_TEMP.png" group-title="Russia A-Media",StreamBox TV. Music Hit
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/27.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/27.m3u8
 #EXTINF:-1 taurer-id="1854" tvg-id="" tvg-name="StreamBox TV. Hit" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/HIT_TEMP.png" group-title="Russia A-Media",StreamBox TV. Hit
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/28.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/28.m3u8
 #EXTINF:-1 taurer-id="3141" tvg-id="" tvg-name="On-Air Free. Жуки" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/ONAIRZ_TEMP.png" group-title="Russia A-Media",On-Air Free. Жуки
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/9.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/9.m3u8
 #EXTINF:-1 taurer-id="7181" tvg-id="" tvg-name="On-Air Free. Ткачевы на связи" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TKACHEVY_TEMP.png" group-title="Кино",On-Air Free. Ткачевы на связи
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/11.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/11.m3u8
 #EXTINF:-1 taurer-id="9201" tvg-id="" tvg-name="On-Air Free. Игры 2024" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/IGRY_TEMP.png" group-title="Russia A-Media",On-Air Free. Игры 2024
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/12.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/12.m3u8
 #EXTINF:-1 taurer-id="1222" tvg-id="" tvg-name="On-Air Free. Просто Михалыч" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/MICHALYCH_TEMP.png" group-title="Russia A-Media",On-Air Free. Просто Михалыч
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/15.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/15.m3u8
 
 #EXTINF:-1 taurer-id="5161" tvg-id="" tvg-name="Filmix" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png" group-title="Ukraine DIGITAL",Filmix
-http://jordan.a-media.one:80/STwHGGf8vA/zmRXWXUjC6/8.m3u8
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/8.m3u8
