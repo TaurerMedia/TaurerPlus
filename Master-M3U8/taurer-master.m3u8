@@ -39,6 +39,17 @@ https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/12.m3u8
 #EXTINF:-1 taurer-id="1222" tvg-id="" tvg-name="On-Air Free. Просто Михалыч" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/MICHALYCH_TEMP.png" group-title="Russia A-Media (SSL)",On-Air Free. Просто Михалыч
 https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/15.m3u8
 
+#EXTINF:-1 taurer-id="8765" tvg-id="" tvg-name="Alpha Cinema" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AC_TEMP.png" group-title="15+ Media Group (SSL)",Alpha Cinema
+https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/32.m3u8
+#EXTINF:-1 taurer-id="8766" tvg-id="" tvg-name="Alpha MoreTine" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AM_TEMP.png" group-title="15+ Media Group (SSL)",Alpha MoreTine
+https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/33.m3u8
+#EXTINF:-1 taurer-id="8767" tvg-id="" tvg-name="Alpha Games" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AG_TEMP.png" group-title="15+ Media Group (SSL)",Alpha Games
+https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/34.m3u8
+#EXTINF:-1 taurer-id="8768" tvg-id="" tvg-name="Alpha Funny" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AF_TEMP.png" group-title="15+ Media Group (SSL)",Alpha Funny
+https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/35.m3u8
+#EXTINF:-1 taurer-id="8769" tvg-id="" tvg-name="Cringe TV" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/CT_TEMP.png" group-title="15+ Media Group (SSL)",Cringe TV
+https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/36.m3u8
+
 #EXTINF:-1 taurer-id="5161" tvg-id="" tvg-name="Filmix" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png" group-title="Ukraine DIGITAL (SSL)",Filmix
 https://jordan.a-media.one:443/y5XncyChNN/ffgX5uE49B/8.m3u8
 
@@ -68,6 +79,17 @@ http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/11.m3u8
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/12.m3u8
 #EXTINF:-1 taurer-id="1222" tvg-id="" tvg-name="On-Air Free. Просто Михалыч" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/MICHALYCH_TEMP.png" group-title="Russia A-Media (NonSSL)",On-Air Free. Просто Михалыч
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/15.m3u8
+
+#EXTINF:-1 taurer-id="8765" tvg-id="" tvg-name="Alpha Cinema" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AC_TEMP.png" group-title="15+ Media Group (NonSSL)",Alpha Cinema
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/32.m3u8
+#EXTINF:-1 taurer-id="8766" tvg-id="" tvg-name="Alpha MoreTine" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AM_TEMP.png" group-title="15+ Media Group (NonSSL)",Alpha MoreTine
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/33.m3u8
+#EXTINF:-1 taurer-id="8767" tvg-id="" tvg-name="Alpha Games" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AG_TEMP.png" group-title="15+ Media Group (NonSSL)",Alpha Games
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/34.m3u8
+#EXTINF:-1 taurer-id="8768" tvg-id="" tvg-name="Alpha Funny" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AF_TEMP.png" group-title="15+ Media Group (NonSSL)",Alpha Funny
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/35.m3u8
+#EXTINF:-1 taurer-id="8769" tvg-id="" tvg-name="Cringe TV" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/CT_TEMP.png" group-title="15+ Media Group (NonSSL)",Cringe TV
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/36.m3u8
 
 #EXTINF:-1 taurer-id="5161" tvg-id="" tvg-name="Filmix" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png" group-title="Ukraine DIGITAL (NonSSL)",Filmix
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/8.m3u8
