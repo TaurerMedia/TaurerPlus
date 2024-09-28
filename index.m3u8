@@ -1,7 +1,7 @@
-#EXTM3U url-content="https://a-media.org/content-user-style/insert.php"
+#EXTM3U url-content="https://a-media.one/content-user-style/insert.php"
 #EXT-X-SESSION-DATA:DATA-ID="com.a-ru.client"
 
-#PLAYLIST-VERSION:1.2.9, webmaster@a-media.one
+#PLAYLIST-VERSION:1.3.0, webmaster@a-media.one
 
 #snd,get:cdn.a-media.one/users/get?${token}/
 #download:cdn.a-media.one/file/get?${token}/
@@ -35,3 +35,14 @@ http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/15.m3u8
 
 #EXTINF:-1 taurer-id="5161" tvg-id="" tvg-name="Filmix" tvg-logo="https://files.taurer.org/iptv_content/assets/ua/FILMIX_TEMP.png" group-title="Ukraine DIGITAL",Filmix
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/8.m3u8
+
+#EXTINF:-1 taurer-id="8765" tvg-id="" tvg-name="Alpha Cinema" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AC_TEMP.png" group-title="15+ Media Group",Alpha Cinema
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/32.m3u8
+#EXTINF:-1 taurer-id="8766" tvg-id="" tvg-name="Alpha MoreTine" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AM_TEMP.png" group-title="15+ Media Group",Alpha MoreTine
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/33.m3u8
+#EXTINF:-1 taurer-id="8767" tvg-id="" tvg-name="Alpha Games" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AG_TEMP.png" group-title="15+ Media Group",Alpha Games
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/34.m3u8
+#EXTINF:-1 taurer-id="8768" tvg-id="" tvg-name="Alpha Funny" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/AF_TEMP.png" group-title="15+ Media Group",Alpha Funny
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/35.m3u8
+#EXTINF:-1 taurer-id="8769" tvg-id="" tvg-name="Cringe TV" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/CT_TEMP.png" group-title="15+ Media Group",Cringe TV
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/36.m3u8
