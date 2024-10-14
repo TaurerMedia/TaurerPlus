@@ -1,11 +1,13 @@
 #EXTM3U url-content="https://a-media.one/content-user-style/insert.php"
 #EXT-X-SESSION-DATA:DATA-ID="com.a-ru.client"
 
-#PLAYLIST-VERSION:1.3.0, webmaster@a-media.one
+#PLAYLIST-VERSION:1.3.1, webmaster@a-media.one
 
 #snd,get:cdn.a-media.one/users/get?${token}/
 #download:cdn.a-media.one/file/get?${token}/
 
+#EXTINF:-1 taurer-id="4521" tvg-id="" tvg-name="TRR1SAT" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TRR1S_TEMP.png" group-title="Russia A-Media",TRR-1-SAT
+http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/3.m3u8
 #EXTINF:-1 taurer-id="1234" tvg-id="" tvg-name="WAR-1" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png" group-title="Russia A-Media",WAR-1
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/5.m3u8
 #EXTINF:-1 taurer-id="5678" tvg-id="" tvg-name="WAR-2" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png" group-title="Russia A-Media",WAR-2
@@ -26,7 +28,7 @@ http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/27.m3u8
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/28.m3u8
 #EXTINF:-1 taurer-id="3141" tvg-id="" tvg-name="On-Air Free. Жуки" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/ONAIRZ_TEMP.png" group-title="Russia A-Media",On-Air Free. Жуки
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/9.m3u8
-#EXTINF:-1 taurer-id="7181" tvg-id="" tvg-name="On-Air Free. Ткачевы на связи" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TKACHEVY_TEMP.png" group-title="Кино",On-Air Free. Ткачевы на связи
+#EXTINF:-1 taurer-id="7181" tvg-id="" tvg-name="On-Air Free. Ткачевы на связи" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/TKACHEVY_TEMP.png" group-title="Russia A-Media",On-Air Free. Ткачевы на связи
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/11.m3u8
 #EXTINF:-1 taurer-id="9201" tvg-id="" tvg-name="On-Air Free. Игры 2024" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/IGRY_TEMP.png" group-title="Russia A-Media",On-Air Free. Игры 2024
 http://jordan.a-media.one:80/y5XncyChNN/ffgX5uE49B/12.m3u8
