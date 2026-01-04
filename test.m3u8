@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://sun9-19.userapi.com/s/v1/ig2/Sa-CK0cELKhX2r5obG0jW-52IlJ2LstRnFJS1YTAgZ2zhavGcJNqLskITY0990d1nJa1ko42qZIp4AbhTqgoThAk.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=1000x0",Канал NSC (+0)
+https://live.15plusmg.ru/memfs/b778b5c8-907e-4193-850e-ea031aa551f4.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://i.ibb.co/txq1g0T/11.jpg",Канал МСТВ-NSC (Москва)
+https://live.15plusmg.ru/memfs/83b7dc96-c647-45fc-b7b6-428b8e15c819.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://i.ibb.co/wQQd6rz/33.jpg",Канал 9 канал-NSC (Екатеринбург)
+https://live.15plusmg.ru/memfs/fd1fdd9e-8d07-4f62-b554-c13203b105d8.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://sun9-19.userapi.com/s/v1/ig2/Sa-CK0cELKhX2r5obG0jW-52IlJ2LstRnFJS1YTAgZ2zhavGcJNqLskITY0990d1nJa1ko42qZIp4AbhTqgoThAk.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=1000x0",Канал NSC+ (TEST)
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://i.ibb.co/rG7rCBzw/tv4.png",Канал TV4
+https://live.15plusmg.ru/memfs/8e3ee34c-eb1f-4898-ab00-4ac0642b82a5.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://i.ibb.co/9mYRTHQq/tv4loog.png",Канал TV4 Русское кино
+https://live.15plusmg.ru/memfs/abb5fb93-b346-448c-90a9-5355a3934630.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://i.ibb.co/n0g4LCy/alphac.png",alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://i.ibb.co/yPDTMTn/alpham.png",alpha MoreTime
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://i.ibb.co/ZcCXw5P/alphaf.png",alpha Funny
+https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album",Новый Русский
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 group-title="Телевидение" tvg-logo="https://taurermedia-15plusmg-livecontent-eustorage03webclient.b-cdn.net/15plusmgru/H3Hp8CLeFxbAM19N1gxXZPqd9J3iwadCF4AiiIL5VfY12T73t1vljPHZpz3LCLny/photo_2025-03-15_16-26-24.jpg",15+ Music
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://i.ibb.co/2s4j92S/photo-2025-01-08-23-43-41.jpg",Радио Гармония
+https://online.15plusmg.ru:8443/garm256
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://i.ibb.co/2s4j92S/photo-2025-01-08-23-43-41.jpg",Радио Гармония (+2)
+https://online.15plusmg.ru:8443/garm256_plus2
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://i.ibb.co/Q8LxVdv/photo-2025-01-08-23-43-41-3.jpg",Морская волна
+https://online.15plusmg.ru:8443/morvolna
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://sun9-6.userapi.com/s/v1/ig2/BMw-x488LLF_-Ttn21emMKIKhhLkXSqfidULtmg1Yw3abjDZwc4TK9RNTAztXFAicV5aBlu7iT0RDMmEejZ_M3-W.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=1000x0",NSC Radio
+https://online.15plusmg.ru:8443/nsc
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://sun9-40.userapi.com/s/v1/ig2/yjwxf420Te26ZY_rBUM7ka9NwB6vChV0K4lndDzuuxNeeeTcfQ3W_rYawZ7VZg3IBcivkNvypmH55pI65gvHw2O_.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,800x800&from=bu&cs=800x0",Classic FM
+https://online.15plusmg.ru:8443/classicfm
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://sun9-76.userapi.com/impg/uNnYXZh1vbc6IfFtFy9-0jQzXuycF822xVf1vg/vqvi62zpnxE.jpg?size=800x800&quality=95&sign=df6c90345efe4d56437cfad321bf1903&type=album",FLEX FM
+https://online.15plusmg.ru:8443/flexfm
+
+
